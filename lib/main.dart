@@ -1,6 +1,9 @@
 import "dart:math";
+import "lab4.dart" as lab4;
 
 void main() {
+  lab4.lab4Main();
+  
   print('Xusniddin Qalandarov\n\n220057\n\n');
   print('\n\n\nThe main Function \n\n\n');
   print('--- Task 2 (Full Name) ---');
